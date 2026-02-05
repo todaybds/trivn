@@ -1,0 +1,8 @@
+﻿@font-face {
+    font-family: 'Futura Primer';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Futura Primer'), url('../s/83162/Futura Primer Regular.woff') format('woff');
+}
+
+

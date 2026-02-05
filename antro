@@ -67,8 +67,8 @@
     src: url('../font/lexend/Lexend-SemiBold.eot');
     src: local('../font/lexend/Lexend-SemiBold'),
         url('../font/lexend/Lexend-SemiBold-1.eot') format('embedded-opentype'),
-        url('../font/lexend/Lexend-SemiBold.woff') format('woff'),
-        url('../font/lexend/Lexend-SemiBold.ttf') format('truetype');
+        url('https://cdn.jsdelivr.net/gh/todaybds/trivn@main/Lexend-SemiBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/todaybds/trivn@main/Lexend-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
@@ -117,7 +117,7 @@
 
 @font-face {
     font-family: 'dx';
-    src: url("../font/dxpnm/DXPnM-KSCpc-EUC-H.woff2") format("woff2"),
+    src: url("https://cdn.jsdelivr.net/gh/todaybds/trivn@main/DXPnM-KSCpc-EUC-H.woff2") format("woff2"),
         url('../font/dxpnm/DXPnM-KSCpc-EUC-H.OTF') format('opentype');
     font-weight: 400;
     font-style: normal;
@@ -127,7 +127,7 @@
 
 @font-face {
     font-family: 'trajan';
-    src: url('../font/trajan/TrajanSansPro-Semibold.otf') format('opentype');
+    src: url('https://cdn.jsdelivr.net/gh/todaybds/trivn@main/TrajanSansPro-Semibold.otf') format('opentype');
     font-weight: 400;
     font-style: normal;
 }
@@ -137,14 +137,14 @@
 
 @font-face {
     font-family: 'antro';
-    src: url('../font/antro_vectra/Antro_Vectra.otf') format('opentype');
+    src: url('https://cdn.jsdelivr.net/gh/todaybds/trivn@main/Antro_Vectra.otf') format('opentype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'antro';
-    src: url('../font/antro_vectra/Antro_Vectra_Bolder.otf') format('opentype');
+    src: url('https://cdn.jsdelivr.net/gh/todaybds/trivn@main/Antro_Vectra_Bolder.otf') format('opentype');
     font-weight: bold;
     font-style: normal;
 }

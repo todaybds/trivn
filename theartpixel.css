@@ -4760,7 +4760,7 @@ body.main .all_wrap {
 }
 
 .brand_list ul li::before {
-    content: 'Â· ';
+    content: '· ';
 }
 
 .brand_img_box {
@@ -8384,3 +8384,4 @@ ul.btns a:hover {
 .sub_yd2_wrap table.tit tr:nth-child(2n) {
     display: none;
 }
+

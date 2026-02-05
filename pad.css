@@ -60,7 +60,7 @@
     .intro_all_wrap { height: 100dvh; }
 
     .intro_bg_box { transform: translate(-50%,-50%) scale(1.4); }
-	.intro_bg::after { background: url(../img/intro_bg2.png) center no-repeat;  background-size: cover;  transform: scale(22);  }
+	.intro_bg::after { background: url(https://static.wixstatic.com/media/9b4f4f_d3a1d6260608459bbb6c515d237afabb~mv2.png) center no-repeat;  background-size: cover;  transform: scale(22);  }
 
 
     .intro_vd_box::after { transition: 0s; }
